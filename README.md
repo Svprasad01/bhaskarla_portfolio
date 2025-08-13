@@ -71,6 +71,7 @@ streamlit run app.py
 * **LinkedIn:** [linkedin.com/in/bhaskarla-sai-vara-prasad](https://linkedin.com/in/bhaskarla-sai-vara-prasad)
 * **GitHub:** [github.com/Svprasad01](https://github.com/Svprasad01)
 
+* **portfolio link: ** (https://bhaskarlasvprasadportfolio.streamlit.app/)
 ---
 
 Made with ❤️ using [Streamlit](https://streamlit.io).
